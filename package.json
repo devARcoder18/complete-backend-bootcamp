@@ -1,0 +1,26 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "homepage": "https://github.com/devARcoder18/complete-backend-bootcamp#readme",
+  "bugs": {
+    "url": "https://github.com/devARcoder18/complete-backend-bootcamp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devARcoder18/complete-backend-bootcamp.git"
+  },
+  "license": "ISC",
+  "author": "Abdur Razzaq",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "slugify": "^1.6.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
